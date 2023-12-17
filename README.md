@@ -19,14 +19,17 @@ Addressing the complexities of air quality monitoring, our project employs advan
 ## 2. Data Desciption
 1. OpenAQ Archived Data:
 Content: Air quality readings for various pollutants globally.
+
 Significance: Crucial for a global perspective on air quality with data from diverse locations.
 
-2. Healthcare Data: Asthma Data
+3. Healthcare Data: Asthma Data
 Content: Dataset related to asthma, providing insights into health impacts of air pollution.
+
 Significance: Essential for correlating air quality data with healthcare, supporting epidemiological studies.
 
-3. ASDI Data: Global Surface Summary of the Day (GSOD)
+5. ASDI Data: Global Surface Summary of the Day (GSOD)
 Content: Comprehensive climate station data, including temperature, precipitation, and wind information.
+
 Significance: Valuable for analyzing historical climate patterns, predicting future weather conditions on a global scale.
 
 

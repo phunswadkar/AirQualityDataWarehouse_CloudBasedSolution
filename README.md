@@ -58,7 +58,7 @@ Summary of Tableau analysis:
 <tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/phunswadkar>
-            <img src=https://avatars.githubusercontent.com/u/44333669?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Pallavi Hunswadkar/>
+            <img src=[https://avatars.githubusercontent.com/u/44333669](https://github.com/phunswadkar)?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Pallavi Hunswadkar/>
             <br />
             <sub style="font-size:14px"><b>Pallavi Hunswadkar</b></sub>
         </a>

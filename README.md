@@ -1,4 +1,4 @@
-# Air Quality Data warehouse and analysis using Business Intelligence
+# Air quality and healthcare Data Warehousing using API, Cloud data on AWS
 
 ## Title: Air Quality Data Warehouse and Business Intelligence on public health
 ![Image](./Proj_cover.webp)

@@ -52,8 +52,8 @@ Summary of Tableau analysis:
 ![Image](./dashboard_temp.png)
 
 ## Contributors:
-[<img src="https://github.com/{{ phunswadkar }}.png" width="60px;"/><br /><sub><ahref="https://github.com/{{ phunswadkar }}">{{ phunswadkar }}</a></sub>](https://github.com/{{ phunswadkar }}/{{ repository }}
-[<img src="https://github.com/{{ Bala-krishna-Batchu }}.png" width="60px;"/><br /><sub><ahref="https://github.com/{{ Bala-krishna-Batchu }}">{{ Bala-krishna-Batchu }}</a></sub>](https://github.com/{{ Bala-krishna-Batchu }}/{{ repository }}
+[<img src="https://github.com/{{ phunswadkar }}.png" width="60px;"/><br /><sub><ahref="https://github.com/{{ phunswadkar }}">{{ phunswadkar }}</a></sub>](https://github.com/{{ phunswadkar }}/{{ AirQualityDataWarehouse_CloudBasedSolution }}
+[<img src="https://github.com/{{ Bala-krishna-Batchu }}.png" width="60px;"/><br /><sub><ahref="https://github.com/{{ Bala-krishna-Batchu }}">{{ Bala-krishna-Batchu }}</a></sub>](https://github.com/{{ Bala-krishna-Batchu }}/{{ capstoneproject }}
 
 
 

@@ -1,7 +1,14 @@
-# Air Quality Data warehouse and analysis using Busineass Intelligence
+# Air Quality Data warehouse and analysis using Business Intelligence
 
 ## Title: Air Quality Data Warehouse and Business Intelligence on public health
+## Table of Contents
+- [Overview](#Project-Overview)
+- [Data Description](#Data-Description)
+- [Problem Statement](#Problem-Statement)
+- [The Approach and Machine learning Models used](#The-Approach-and-Machine-learning-Models-used)
+- [Result](#Result)
 
+  
 ## 1: Project Overview
 The primary objective of our Air Quality Data Warehouse for Exploring Impact on Public Health is to analyze air quality data from various sources, including OpenAQ, Healthcare, and Global Surface Temperature data, along with real-time API inputs. The focus is on understanding environmental factors contributing to asthma issues in California, with broad applications across healthcare, insurance, medical practitioners, and research teams.
 

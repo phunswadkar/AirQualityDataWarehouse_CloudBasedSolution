@@ -1,6 +1,8 @@
 # Air Quality Data warehouse and analysis using Business Intelligence
 
 ## Title: Air Quality Data Warehouse and Business Intelligence on public health
+![Image](./Proj_cover.webp)
+
 ## Table of Contents
 - [Problem Statement](#Problem-Statement)
 - [Data Description](#Data-Description)

@@ -38,7 +38,7 @@ Architecture Overview:
 ![Image](./architecture.png)
 
 
-## 3: Tableau Visualizations:
+## 4: Tableau Visualizations:
 Summary of Tableau analysis:
 
 ● The analysis identifies the top 5 pollutants as the primary contributors to asthma-related fatalities in California pm2.5 seems to be the top pollutant for deaths.Pm2.5 emerges as a major pollutant affecting lungs, despite higher overall O3 values in certain counties.
@@ -53,7 +53,7 @@ Summary of Tableau analysis:
 
 ![Image](./dashboard_temp.png)
 
-## Contributors:
+## 5: Contributors:
 
 <table>
 <tr>

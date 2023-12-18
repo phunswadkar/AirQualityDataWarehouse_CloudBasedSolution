@@ -4,11 +4,11 @@
 ![Image](./Proj_cover.webp)
 
 ## Table of Contents
-- [Problem Statement](#Problem-Statement)
-- [Data Description](#Data-Description)
-- [Methodology](#Methodology/Approach)
-- [Data Visualization using Tableau](#Tableau-Visualizations)
-- [Contributors](#Contributors)
+- [Problem Statement](#problem-statement)
+- [Data Description](#data-description)
+- [Methodology](#methodology)
+- [Data Visualization using Tableau](#tableau-visualizations)
+- [Contributors](#contributors)
 
   
 ## 1: Problem Statement
@@ -33,7 +33,7 @@ Content: Comprehensive climate station data, including temperature, precipitatio
 Significance: Valuable for analyzing historical climate patterns, predicting future weather conditions on a global scale.
 
 
-## 3. Methodology/Approach: 
+## 3. Methodology: 
 Our methodology is underpinned by a robust and scalable architecture designed to seamlessly integrate data from diverse sources and ensure its quality and accessibility. This architectural diagram visually represents the key components and their interactions within our data pipeline. 
 
 Architecture Overview:

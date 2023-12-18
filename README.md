@@ -35,6 +35,7 @@ Significance: Valuable for analyzing historical climate patterns, predicting fut
 
 ## Methodology: 
 Our methodology is underpinned by a robust and scalable architecture designed to seamlessly integrate data from diverse sources and ensure its quality and accessibility. This architectural diagram visually represents the key components and their interactions within our data pipeline. 
+We're leveraging AWS tools, utilizing Lambda for real-time OpenAq data, AWS Glue for seamless data transformations, and Amazon Redshift for our sophisticated data warehouse. Our design stands out with dimensional modeling and a star schema, ensuring seamless integration and high-powered analytics
 
 Architecture Overview:
 
@@ -42,17 +43,18 @@ Architecture Overview:
 
 
 ## Tableau Visualizations:
+We harnessed Tableau to further visualize our data
 Summary of Tableau analysis:
 
-● The analysis identifies the top 5 pollutants as the primary contributors to asthma-related fatalities in California pm2.5 seems to be the top pollutant for deaths.Pm2.5 emerges as a major pollutant affecting lungs, despite higher overall O3 values in certain counties.
+1. The analysis identifies the top 5 pollutants as the primary contributors to asthma-related fatalities in California pm2.5 seems to be the top pollutant for deaths.Pm2.5 emerges as a major pollutant affecting lungs, despite higher overall O3 values in certain counties.
 
 ![Image](./scatter.png)
 
-●	Los Angeles emerges as the leading county for Asthma Emergency Department (ED) visits, followed by Riverside, Orange, Alameda, Fresno, etc.
+2.	Los Angeles emerges as the leading county for Asthma Emergency Department (ED) visits, followed by Riverside, Orange, Alameda, Fresno, etc.
 
 ![Image](./hospitalizations.png)
 
-●	O3 and Co pollutants are identified as the key contributors to the rise in temperature levels.A notable trend is observed with increased pollutant levels during the first week of every month.
+3.	O3 and Co pollutants are identified as the key contributors to the rise in temperature levels. A notable trend is observed with increased pollutant levels during the first week of every month.
 
 ![Image](./dashboard_temp.png)
 

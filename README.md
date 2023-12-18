@@ -16,7 +16,7 @@ The primary objective of our Air Quality Data Warehouse for Exploring Impact on 
 
 Addressing the complexities of air quality monitoring, our project employs advanced data engineering and analytics techniques. The overarching goal is to craft a comprehensive solution that efficiently collects, processes, analyzes, and visualizes real-time air quality data. By achieving this, our aim is to empower stakeholders by providing accessible data in the data warehouse, facilitating its utilization for deriving valuable insights. Leveraging two additional datasets—Healthcare and air quality, GSOD data—our project addresses challenges associated with air quality monitoring and its profound impact on various domains
 
-## Data Desciption
+## Data Description
 1. OpenAQ Archived Data:
 Content: Air quality readings for various pollutants globally.
 
